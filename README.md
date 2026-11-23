@@ -1,11 +1,18 @@
-👋 Hi, I’m @Ghoxt01
-👀 I’m interested in full-stack development
-🌱 I’m currently learning JavaScript and have the basics in HTML and CSS
-💞️ I’m looking to collaborate on anything that will improve my skills
-📫 You can reach me via GitHub
-😄 Pronouns: Coder
-⚡ Fun fact: Let’s discover that in the future!
-<!---
-Ghoxt01/Ghoxt01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# Ghoxt Studio
+
+Web design and SEO audits for local dental practices
+
+</div>
+
+---
+
+### What I do
+I review dental practice websites and show what is costing them patients: missing search markup, weak page descriptions, and mobile display problems.
+
+### What you get
+A free, short audit report for your practice website, delivered within 48 hours. No obligation.
+
+### Contact
+ahmed.moudar.pro@gmail.com
