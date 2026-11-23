@@ -1,12 +1,6 @@
 <div align="center">
-
-# Ghoxt Studio
-
-Web design and SEO audits for local dental practices
-
+<img src="banner.png" alt="Ghoxt Studio" width="100%">
 </div>
-
----
 
 ### What I do
 I review dental practice websites and show what is costing them patients: missing search markup, weak page descriptions, and mobile display problems.
